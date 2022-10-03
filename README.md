@@ -1,2 +1,2 @@
-# gingersnap.github.io
+# gingersnap-project.github.io
 Gingersnap website
